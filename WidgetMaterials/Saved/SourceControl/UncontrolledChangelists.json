@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/tsmolinski/UEProjects/WidgetMaterials/WidgetMaterials/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
-				"C:/Users/tsmolinski/UEProjects/WidgetMaterials/WidgetMaterials/Content/UI/BP_BaseUI.uasset"
+				"C:/Users/tsmolinski/UEProjects/WidgetMaterials/WidgetMaterials/Content/UI/BP_BaseUI.uasset",
+				"C:/Users/tsmolinski/UEProjects/WidgetMaterials/WidgetMaterials/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset"
 			]
 		}
 	]
